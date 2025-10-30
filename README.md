@@ -85,17 +85,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinhyeok26&show_icons=true&theme=vue-dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinhyeok26&theme=vue-dark&hide_border=true" height="160" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeok26&layout=compact&theme=vue-dark&hide_border=true" height="150" />
-</div>
-
----
-
 ### 📚 최근 학습 중
 - ⚡ React + GSAP 통합 애니메이션 설계  
 - 📱 IntersectionObserver 기반 성능 최적화  

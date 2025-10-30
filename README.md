@@ -1,11 +1,12 @@
 <!-- 💻 GitHub Profile README for Web Publisher Jinhyeok -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6A21E,100:FFB64B&height=180&section=header&text=Jinhyeok%20Park&fontSize=42&fontColor=fff&animation=fadeIn" />
-  
-  <h3>✨ Front-End Publisher · UI Developer · Interaction Designer ✨</h3>
-  <p>코드로 디자인을 완성하는 5년차 웹 퍼블리셔</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8008,100:FFC837&height=100&section=header&text=Jinhyeok%20Park&fontSize=36&fontColor=fff" />
 </div>
+
+<h3 align="center">✨ Front-End Publisher · UI Developer ✨</h3>
+<p align="center">코드로 디자인을 완성하는 웹 퍼블리셔</p>
+
 
 ---
 

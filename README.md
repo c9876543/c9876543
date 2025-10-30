@@ -49,10 +49,6 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,ps,vite" />
-</div>
-
 ---
 
 ### 🧩 Featured Projects

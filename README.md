@@ -62,19 +62,19 @@
 - **역할:** 전체 웹 퍼블리싱 / GNB 인터랙션 & 섹션 모션 구성  
 - **성과:** GSAP 기반 슬라이드 드롭다운 구현 / 반응형 최적화  
 - **기술:** HTML5, CSS3, GSAP, JavaScript  
-- 🔗 [프로젝트 보기](https://www.daewoong.co.kr/kr/main/index)
+- 🔗 [프로젝트 보기]([https://www.daewoong.co.kr/kr/main/index](https://jinhyeok26.mycafe24.com/daewoong/daewoong-site/src/index.html))
 
 #### ☕ **Starbucks Clone**
 > 스타벅스 메인 페이지 클론 프로젝트
 - **포인트:** GSAP ScrollTrigger를 활용한 섹션별 등장 모션  
 - **기술:** HTML, CSS, JavaScript, GSAP  
-- 🔗 [사이트 보기](https://jinhyeok26.mycafe24.com/sta/index.html)
+- 🔗 [사이트 보기]([https://jinhyeok26.mycafe24.com/sta/index.html](https://jinhyeok26.mycafe24.com/sta/index.html))
 
 #### 💊 **Pharma Product Gallery**
 > 카테고리 기반 제품 미리보기 UI 구현
 - **기능:** JSON 데이터 기반 필터링 / 모달 프리뷰 / 태그 필터  
 - **기술:** JavaScript, CSS Grid, JSON Fetch API  
-- 🔗 [프로젝트 보기](https://jinhyeok26.mycafe24.com/)
+- 🔗 [프로젝트 보기]([https://jinhyeok26.mycafe24.com/](https://jinhyeok26.mycafe24.com/news3/index.html))
 
 ---
 
@@ -109,8 +109,8 @@
 
 ### 📫 Contact
 - 💼 Portfolio: [https://jinhyeok26.mycafe24.com](https://jinhyeok26.mycafe24.com)  
-- 📧 Email: [jinhyeok@example.com](mailto:jinhyeok@example.com)  
-- 💬 GitHub: [github.com/jinhyeok26](https://github.com/jinhyeok26)
+- 📧 Email: [wlsgur91@gmail.com](mailto:wlsgur91@gmail.com)  
+- 💬 GitHub: [github.com/c9876543](https://github.com/c9876543)
 
 ---
 

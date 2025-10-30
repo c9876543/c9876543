@@ -20,8 +20,6 @@
 
 ---
 
-### 🧰 Skills
-
 ### 🧰 My Skill Set
 
 #### 💻 Front-End

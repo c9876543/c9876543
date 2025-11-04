@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">✨ Front-End Publisher · UI Developer ✨</h3>
-<p align="center">코드로 디자인을 완성하는 웹 퍼블리셔</p>
+<p align="center">코드 한 줄에도 감성을 담는 퍼블리셔</p>
 
 
 ---

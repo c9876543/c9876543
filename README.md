@@ -1,11 +1,11 @@
 <!-- 💻 GitHub Profile README for Web Publisher Jinhyeok -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8008,100:FFC837&height=100&section=header&text=Jinhyeok%20Park%20|%20Front-End%20Publisher&fontSize=30&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1A1A1A&height=100&section=header&text=Jinhyeok%20Park%20|%20Front-End%20Publisher&fontSize=30&fontColor=00FFC6" />
 </div>
 
-<h3 align="center">✨ Front-End Publisher · UI Developer ✨</h3>
-<p align="center">코드 한 줄에도 감성을 담는 퍼블리셔</p>
+<h3 align="center" style="color:#00FFC6;">✨ Front-End Publisher · UI Developer ✨</h3>
+<p align="center" style="color:#ccc;">코드 한 줄에도 감성을 담는 퍼블리셔</p>
 
 <br/>
 
@@ -123,12 +123,14 @@
 
 ### 📫 Contact
 
-- 💼 **Portfolio:** [https://jinhyeok26.mycafe24.com](https://jinhyeok26.mycafe24.com)  
-- 📧 **Email:** [wlsgur91@gmail.com](mailto:wlsgur91@gmail.com)  
-- 💬 **GitHub:** [github.com/c9876543](https://github.com/c9876543)
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6A21E,100:FFB64B&height=120&section=footer" />
+
+💼 **Portfolio:** [https://jinhyeok26.mycafe24.com](https://jinhyeok26.mycafe24.com)  
+📧 **Email:** [wlsgur91@gmail.com](mailto:wlsgur91@gmail.com)  
+💬 **GitHub:** [github.com/c9876543](https://github.com/c9876543)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Jinhyeok-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>

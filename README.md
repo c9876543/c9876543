@@ -80,7 +80,7 @@
 ---
 
 #### 💊 **Pharma Product Gallery**
-![Pharma Thumbnail](https://jinhyeok26.mycafe24.com/news3/img/thumb.jpg)
+![Pharma Thumbnail](https://jinhyeok26.mycafe24.com/mov.jpg)
 
 > 카테고리 기반 제품 미리보기 UI 구현  
 - 🔹 **기능:** JSON 데이터 기반 필터링 / 모달 프리뷰 / 태그별 필터  

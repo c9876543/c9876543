@@ -70,7 +70,7 @@
 ---
 
 #### ☕ **Starbucks Clone**
-![Starbucks Thumbnail](https://jinhyeok26.mycafe24.com/sta/img/home/star.png)
+![Starbucks Thumbnail](https://jinhyeok26.mycafe24.com/stabucks.jpg)
 
 > 스타벅스 메인 페이지 클론  
 - 🔹 **포인트:** GSAP ScrollTrigger 기반 섹션별 등장 모션  

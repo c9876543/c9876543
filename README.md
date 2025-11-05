@@ -65,7 +65,7 @@
 - 🔹 **역할:** 전체 퍼블리싱 / GNB 인터랙션 & GSAP 섹션 모션 구성  
 - 🔹 **성과:** GSAP 기반 슬라이드 드롭다운 구현 / 반응형 최적화  
 - 🧰 **기술:** HTML5 · CSS3 · GSAP · JavaScript  
-- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/daewoong/) · [GitHub](https://github.com/c9876543/daewoong)
+- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/daewoong/daewoong-site/src/index.html) · [GitHub](https://github.com/c9876543/daewoong)
 
 ---
 
@@ -75,7 +75,7 @@
 > 스타벅스 메인 페이지 클론  
 - 🔹 **포인트:** GSAP ScrollTrigger 기반 섹션별 등장 모션  
 - 🧰 **기술:** HTML · CSS · JavaScript · GSAP  
-- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/sta/) · [GitHub](https://github.com/c9876543/starbucks)
+- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/sta/index.html) · [GitHub](https://github.com/c9876543/starbucks)
 
 ---
 
@@ -85,7 +85,7 @@
 > 카테고리 기반 제품 미리보기 UI 구현  
 - 🔹 **기능:** JSON 데이터 기반 필터링 / 모달 프리뷰 / 태그별 필터  
 - 🧰 **기술:** JavaScript · CSS Grid · Fetch API  
-- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/news3/) · [GitHub](https://github.com/c9876543/pharma-gallery)
+- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/news3/index.html) · [GitHub](https://github.com/c9876543/NEWS)
 
 <br/>
 

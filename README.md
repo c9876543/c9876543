@@ -1,23 +1,28 @@
 <!-- 💻 GitHub Profile README for Web Publisher Jinhyeok -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8008,100:FFC837&height=100&section=header&text=Jinhyeok%20Park&fontSize=36&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8008,100:FFC837&height=100&section=header&text=Jinhyeok%20Park%20|%20Front-End%20Publisher&fontSize=30&fontColor=fff" />
 </div>
 
 <h3 align="center">✨ Front-End Publisher · UI Developer ✨</h3>
 <p align="center">코드 한 줄에도 감성을 담는 퍼블리셔</p>
 
+<br/>
 
 ---
 
 ### 🧭 About Me
-안녕하세요, 저는 **웹 퍼블리셔 박진혁**입니다.  
-5년간 다양한 기업 사이트, 브랜드 캠페인, 클론코딩 프로젝트를 진행하며  
-**“보는 사람의 시선을 머물게 하는 UI”**를 만드는 데 집중해왔습니다.
+
+안녕하세요, **웹 퍼블리셔 박진혁**입니다.  
+5년간 다양한 기업형 사이트와 브랜드 캠페인을 제작하며  
+**“보는 사람의 시선을 머물게 하는 UI”**를 만들어왔습니다.
+
+> 💬 5년차 퍼블리셔로서 **기업형 반응형 웹, 브랜드 사이트, GSAP 인터랙션**에 특화되어 있습니다.  
+> HTML·CSS·GSAP 기반 퍼블리싱뿐 아니라, **디자인 시스템 및 UI 일관성 유지**에도 강점을 가지고 있습니다.
 
 - 💡 주요 역량: 반응형 웹, 인터랙션 설계, 접근성 중심 퍼블리싱  
 - ⚙️ 코드 철학: “한 줄의 코드도 디자인의 일부다.”  
-- 🚀 목표: **GSAP + React 기반 인터랙티브 포트폴리오 퍼블리셔로 성장**  
+- 🚀 목표: **GSAP + React 기반 인터랙티브 퍼블리셔로 성장**
 
 ---
 
@@ -45,56 +50,82 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-FFCC00?style=for-the-badge&logo=Zeplin&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 
+<br/>
 
 ---
 
 ### 🧩 Featured Projects
 
 #### 🧡 **Daewoong Pharmaceutical Website Renewal**
-> 대웅제약 공식 사이트 리뉴얼 프로젝트
-- **역할:** 전체 웹 퍼블리싱 / GNB 인터랙션 & 섹션 모션 구성  
-- **성과:** GSAP 기반 슬라이드 드롭다운 구현 / 반응형 최적화  
-- **기술:** HTML5, CSS3, GSAP, JavaScript  
-- 🔗 [사이트 보기](https://jinhyeok26.mycafe24.com/daewoong/daewoong-site/src/index.html)
+![Daewoong Thumbnail](https://jinhyeok26.mycafe24.com/daewoong/daewoong-site/src/img/og_image.jpg)
+
+> 대웅제약 공식 사이트 리뉴얼  
+- 🔹 **역할:** 전체 퍼블리싱 / GNB 인터랙션 & GSAP 섹션 모션 구성  
+- 🔹 **성과:** GSAP 기반 슬라이드 드롭다운 구현 / 반응형 최적화  
+- 🧰 **기술:** HTML5 · CSS3 · GSAP · JavaScript  
+- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/daewoong/) · [GitHub](https://github.com/c9876543/daewoong)
+
+---
 
 #### ☕ **Starbucks Clone**
-> 스타벅스 메인 페이지 클론 프로젝트
-- **포인트:** GSAP ScrollTrigger를 활용한 섹션별 등장 모션  
-- **기술:** HTML, CSS, JavaScript, GSAP  
-- 🔗 [사이트 보기](https://jinhyeok26.mycafe24.com/sta/index.html)
+![Starbucks Thumbnail](https://jinhyeok26.mycafe24.com/sta/img/home/star.png)
+
+> 스타벅스 메인 페이지 클론  
+- 🔹 **포인트:** GSAP ScrollTrigger 기반 섹션별 등장 모션  
+- 🧰 **기술:** HTML · CSS · JavaScript · GSAP  
+- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/sta/) · [GitHub](https://github.com/c9876543/starbucks)
+
+---
 
 #### 💊 **Pharma Product Gallery**
-> 카테고리 기반 제품 미리보기 UI 구현
-- **기능:** JSON 데이터 기반 필터링 / 모달 프리뷰 / 태그 필터  
-- **기술:** JavaScript, CSS Grid, JSON Fetch API  
-- 🔗 [사이트 보기](https://jinhyeok26.mycafe24.com/news3/index.html)
+![Pharma Thumbnail](https://jinhyeok26.mycafe24.com/news3/img/thumb.jpg)
+
+> 카테고리 기반 제품 미리보기 UI 구현  
+- 🔹 **기능:** JSON 데이터 기반 필터링 / 모달 프리뷰 / 태그별 필터  
+- 🧰 **기술:** JavaScript · CSS Grid · Fetch API  
+- 🔗 [Live Demo](https://jinhyeok26.mycafe24.com/news3/) · [GitHub](https://github.com/c9876543/pharma-gallery)
+
+<br/>
 
 ---
 
 ### 🌈 UI/UX Highlights
-🎨 **디자인 철학**
+
+🎨 **디자인 철학**  
 > “좋은 인터랙션은 자연스러워야 한다.”
 
 - Scroll 기반 섹션 전환에 **GSAP Timeline** 적용  
 - 이미지 로드 후 **레이아웃 안정화(Lazy Loading)**  
 - **BEM 규칙 기반 CSS 구조화**로 유지보수성 강화  
-- 모바일 기준 **320px까지 대응 반응형 설계**
+- 모바일 **320px 대응 반응형 설계**
 
 ---
 
-### 📚 최근 학습 중
-- ⚡ React + GSAP 통합 애니메이션 설계  
-- 📱 IntersectionObserver 기반 성능 최적화  
-- 🧠 Next.js로 포트폴리오 확장 중  
+### 📚 현재 학습 중
+
+- ⚛️ **React + GSAP:** 컴포넌트 단위 애니메이션 설계  
+- 🧩 **Next.js:** 포트폴리오 SSR 기반 리뉴얼 진행 중  
+- 🧠 **TypeScript:** UI 상태 안정성 확보 실험  
+- 📱 **IntersectionObserver:** 스크롤 트리거 성능 최적화
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c9876543&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c9876543&layout=compact&theme=radical" height="160px"/>
+</div>
 
 ---
 
 ### 📫 Contact
-- 💼 Portfolio: [https://jinhyeok26.mycafe24.com](https://jinhyeok26.mycafe24.com)  
-- 📧 Email: [wlsgur91@gmail.com](mailto:wlsgur91@gmail.com)  
-- 💬 GitHub: [github.com/c9876543](https://github.com/c9876543)
+
+- 💼 **Portfolio:** [https://jinhyeok26.mycafe24.com](https://jinhyeok26.mycafe24.com)  
+- 📧 **Email:** [wlsgur91@gmail.com](mailto:wlsgur91@gmail.com)  
+- 💬 **GitHub:** [github.com/c9876543](https://github.com/c9876543)
 
 ---
 

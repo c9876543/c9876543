@@ -59,7 +59,7 @@
 ### 🧩 Featured Projects
 
 #### 🧡 **Daewoong Pharmaceutical Website Renewal**
-![Daewoong Thumbnail](https://jinhyeok26.mycafe24.com/daewoong/daewoong-site/src/img/og_image.jpg)
+![Daewoong Thumbnail](https://jinhyeok26.mycafe24.com/daewoong.jpg)
 
 > 대웅제약 공식 사이트 리뉴얼  
 - 🔹 **역할:** 전체 퍼블리싱 / GNB 인터랙션 & GSAP 섹션 모션 구성  
